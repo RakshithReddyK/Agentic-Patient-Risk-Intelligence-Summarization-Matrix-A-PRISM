@@ -1,0 +1,2 @@
+# Agentic-Patient-Risk-Intelligence-Summarization-Matrix-A-PRISM-
+The purpose of this project is to build an Agentic AI model that classifies clinical documents by specialty, summarizes with a timeline, and scores risk, with human reviewing every output. Deterministic-first computation, span-grounded claims with a mechanical verifier, Instructor with bounded retries, fail closed to a human, eval-first golden set
